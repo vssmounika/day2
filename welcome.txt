@@ -1,0 +1,2 @@
+Welcome to my day 2 git class
+git
